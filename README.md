@@ -6,7 +6,6 @@
 
 - `midterm_project/`: 工业预测性维护项目
 - `final_project/`: 小麦种子数据集综合分析项目
-- `datasets/`: 包含 ai4i2020.csv 和 seeds_dataset.txt
 
 ---
 
